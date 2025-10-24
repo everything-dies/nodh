@@ -1,0 +1,6 @@
+site_name: Framework Design
+site_url: https://everything-dies.github.io/nodh/
+theme:
+  name: material
+nav:
+  - Home: index.md
